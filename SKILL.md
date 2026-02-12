@@ -1,11 +1,9 @@
 ---
 name: plussing-review
-description: Constructively improve any creative work by systematically asking "What
-  would make this better?" - Walt Disney's methodology for continuous improvement
-  through additive feedback rather than criticism.
+description: Constructively improve any creative work by systematically asking "What would make this better?" - Walt Disney's methodology for continuous improvement through additive feedback rather than criticism.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - callbacks
